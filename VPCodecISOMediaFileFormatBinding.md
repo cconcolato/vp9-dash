@@ -66,7 +66,7 @@ VP elementary streams.
 
 |           |                                                  |
 | --------- | ------------------------------------------------ |
-| Box Type  | 'vp_xx_' where 'xx' is one of '08', '09' or '10' |
+| Box Type  | 'vpxx' where 'xx' is one of '08', '09' or '10' |
 | Container | Sample Description Box ('stsd')                  |
 | Mandatory | Yes, for VP codec tracks                         |
 | Quantity  | Exactly one                                      |
